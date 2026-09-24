@@ -15,5 +15,5 @@
 homepage: "https://flexyconsent.com"
 documentation: "https://flexyconsent.com/docs/google-tag-manager/"
 versions:
-  - sha: 0000000000000000000000000000000000000000
+  - sha: 6070360eec25b0b87d09c6a375c1230a5165fe18
     changeNotes: Initial release.
