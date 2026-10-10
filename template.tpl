@@ -22,7 +22,7 @@ ___INFO___
     "id": "github.com_flexyconsent",
     "displayName": "FlexyConsent"
   },
-  "description": "Load the FlexyConsent consent management platform and set Google Consent Mode v2 defaults before any other tag on the page fires, then update them from the visitor's own choice. IAB TCF v2.2 CMP ID 317, IAB GPP and Google Additional Consent v2.",
+  "description": "Load the FlexyConsent consent management platform and set Google Consent Mode v2 defaults before any other tag on the page fires, then update them from the visitor's own choice. IAB TCF v2.4 CMP ID 317, IAB GPP v1.1 and Google Additional Consent v2.",
   "containerContexts": [
     "WEB"
   ]

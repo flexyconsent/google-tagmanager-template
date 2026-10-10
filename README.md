@@ -7,8 +7,11 @@ other tag in the container is held behind it.
 
 > **This directory is the master copy. It is not what the gallery reads.** The gallery requires the
 > template to live in its own **public** GitHub repository, with `template.tpl`, `metadata.yaml` and
-> `LICENSE` at the repository root: **`github.com/flexyconsent/gtm-flexyconsent-cmp`**. Run
+> `LICENSE` at the repository root: **`github.com/flexyconsent/google-tagmanager-template`**. Run
 > `./publish.sh` to build it. See *Publishing* below.
+>
+> **Published 2026-09-24** (initial release `6070360`, submitted to the gallery the same day). An update
+> is a new commit there plus its sha at the top of `versions` in `metadata.yaml`.
 
 ## What the tag does, in order
 
