@@ -15,5 +15,7 @@
 homepage: "https://flexyconsent.com"
 documentation: "https://flexyconsent.com/docs/google-tag-manager/"
 versions:
+  - sha: 9ec6eff2eea543662cafcb85cc4aa23f2926c82e
+    changeNotes: The description names IAB TCF v2.4 and IAB GPP v1.1.
   - sha: 6070360eec25b0b87d09c6a375c1230a5165fe18
     changeNotes: Initial release.
